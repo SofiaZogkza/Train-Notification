@@ -25,9 +25,9 @@ Retrieves current time in Berlin that has always has to be greater than the trai
 
 Change Directory to TrainNotification folder and run in the terminal the below :
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 > **Run in the background**
 
-pythonw.exe .\main.py
+```pythonw.exe .\main.py```
