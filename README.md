@@ -14,11 +14,11 @@ Script runs between 17.00 and 18.00 pm.
 
 Retrieves data of departures every one minute for the route from **S Südkreuz** to **S+U Potsdamer Platz**.
 
-The data are retrieved from the service API [VBB](https://github.com/derhuerst/vbb-rest/blob/5/docs/readme.md)
+The data are retrieved from the service API [VBB](https://github.com/derhuerst/vbb-rest/blob/5/docs/readme.md) .
 
 There are many results in each call, only the first one is manipulated.
 
-Retrieves current time in berlin that has always has to be greater than the train's departure time.
+Retrieves current time in Berlin that has always has to be greater than the train's departure time.
 
 
 > **INSTALL**
