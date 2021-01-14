@@ -1,4 +1,4 @@
-# Train-Notification #
+# :bullettrain_side: Train-Notification #
 
 ## Desktop Notifier for Train departure ##
 
